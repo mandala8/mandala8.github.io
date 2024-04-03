@@ -1,3 +1,4 @@
+
 const wrapper document.querySelector(".wrapper");
 
 const question = document.querySelector(".question");
@@ -33,4 +34,3 @@ noBtn.style.left randomX + "px";
 });
 
 noBtn.style.top randomy + "px";
-
